@@ -24,6 +24,7 @@
 <img style="margin-right: 10px;" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="margin-right: 10px;" align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img style="margin-right: 10px;" align="left" alt="Rails" width="26px" src="https://avatars.githubusercontent.com/u/4223" />
+<img style="margin-right: 10px;" align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
 
 
 [timebyping]: https://www.timebyping.com
