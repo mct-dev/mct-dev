@@ -2,7 +2,7 @@
 
 ### I'm a husband, a golfer, and an enthusiastic reader!
 
-- 🖥 I'm currently working at [Bitcoin IRA][bitcoinira] as a Software Engineer.
+- 🖥 I'm currently working at [Time by Ping][timebyping] as a Software Engineer.
 - 🔨 I like to build things and, one day, I hope to sell one of these things online.
 - 📖 I like to read and learn about things that I don't know or haven't heard of.
 - ⚡️ Fun fact: I have 2 awesome dogs who I often take hiking 😄
@@ -23,10 +23,10 @@
 <img style="margin-right: 10px;" align="left" alt="Typescript" width="26px" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg">
 <img style="margin-right: 10px;" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="margin-right: 10px;" align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img style="margin-right: 10px;" align="left" alt="Rails" width="26px" src="https://avatars.githubusercontent.com/u/4223" />
 
 
-
-[bitcoinIra]: https://www.bitcoinira.com
+[timebyping]: https://www.timebyping.com
 [website]: https://www.mikectobias.com
 [twitter]: https://twitter.com/mctdev
 [instagram]: https://instagram.com/miketobias
