@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img style="margin-right: 10px;" align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" />
+<img style="margin-right: 10px;" align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />
 <img style="margin-right: 10px;" align="left" alt="Typescript" width="26px" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg">
 <img style="margin-right: 10px;" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="margin-right: 10px;" align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
