@@ -2,9 +2,9 @@
 
 ### I'm a husband, a golfer, and an enthusiastic reader!
 
-- 🖥 I'm currently working at [Time by Ping][timebyping] as a Software Engineer.
-- 🔨 I like to build things and, one day, I hope to sell one of these things online.
-- 📖 I like to read and learn about things that I don't know or haven't heard of.
+- 🖥 I'm currently working at [laurel.ai][laurel] as a Software Engineer.
+- 🔨 I like to build things that improve life and save time. I like to grow teams that do this, too.
+- 📖 I also like to read and learn about things that I don't know or haven't heard of.
 - ⚡️ Fun fact: I have 2 awesome dogs who I often take hiking 😄
 
 ### Connect with me:
@@ -27,7 +27,7 @@
 <img style="margin-right: 10px;" align="left" alt="PostgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
 
 
-[timebyping]: https://www.timebyping.com
+[laurel]: https://www.laurel.ai
 [website]: https://www.mikectobias.com
 [twitter]: https://twitter.com/mctdev
 [instagram]: https://instagram.com/miketobias
