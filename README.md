@@ -1,9 +1,8 @@
 ## Hi there, I'm Mike. 👋
 
-- 🖥 I'm currently working at [laurel.ai][laurel] as a Software Engineer.
+- 🖥 I'm currently working at [laurel.ai][laurel].
 - 🔨 I like to build things that improve life and save time. I like to grow teams and companies that do this, too.
 - 📖 I also like to read and learn about things that I don't know or haven't heard of.
-- ⚡️ Fun fact: I have a daughter and 2 dogs who I often take hiking 😄
 
 ### Connect with me:
 
